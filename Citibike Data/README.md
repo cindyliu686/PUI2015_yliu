@@ -1,4 +1,4 @@
-# HW3 Assignment 3 Citibike Data
+# HW3 Citibike Data
 
 Dateset: We use the August 2015 Citibike data because more people would use the citibike service during the warmer time period. 
 
