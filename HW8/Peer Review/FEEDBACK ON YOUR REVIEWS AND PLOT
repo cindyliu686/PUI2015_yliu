@@ -1,0 +1,62 @@
+
+NOTES ON YOUR PLOT
+==================
+
+the colors are not explained nor is the transparency
+
+for the large numbers on x and y axis a more concise notation should be chosen
+
+the 3d dimension is unnecessary and possibly redundant with the color. 
+
+the 3d dimension makes the readability of the Square footage and of the # of units hard to read away from the edges of the respective axis ranges
+
+
+
+NOTES ON THE PLOTS YOU REVIEWED
+===========================================
+
+
+yx1125
+======
+
+
+
+
+
+
+Colors are indistinguishable for color blind people
+
+tick labels are too small
+
+
+it would be nice if it said "basketball" somewhere, and had the date of the data
+
+the points are too small resulting in a lot of empathy space (remember tufte's rules) and the points at 0 are chopped by the axis: an offset should be provided
+
+otherwise clear and not misleading
+
+
+yx1088
+======
+
+
+the color is not explained
+
+units re missing on the x and y labels (seconds?)
+
+the units on the tick labels should be compressed 
+
+the plot is very informative (one of the best seaborn visualizations) but poorly documented 
+
+
+
+
+
+jz2308
+======
+
+too m any categories: the difference in size cannot be told apart
+
+x, y labels and ticks and title  too small
+
+circles size and transparency used to convey the same information: this just makes things confusing.
